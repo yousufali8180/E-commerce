@@ -1,0 +1,54 @@
+.col-md-7 h1{
+    color:#1F1F1F;
+}
+.col-md-7 h6{
+    color: #707070;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.background{
+    background-color: #fff;
+}
+.carousel-item{
+    padding: 15px;
+}
+.buy-now{
+    color: #fff;
+    background-color: black;
+    border-radius: 10px;
+    border: #707070;
+    padding: 7px 20px;
+    margin-top: 15px;
+}
+.claim{
+    margin-bottom: 10px;
+}
+.categories h1{
+    color:#fff;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 8px 5px lightgray;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+.lp-section{
+    margin-top: 50px;
+}
+.category{
+    margin-top: 20px;
+}
+.line{
+    background-color:yellow;
+    height: 5px;
+    width:100px;
+    border-radius: 15px;
+}
+.mg-mg{
+    margin-top: 150px;
+}
+footer{
+    text-align: center;
+}
